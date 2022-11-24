@@ -19,3 +19,8 @@ header{
     min-height: 250px;
     background-color: red;
 }
+
+.about{
+    background-color: #1ABC9C;
+    min-height: 300px;
+}

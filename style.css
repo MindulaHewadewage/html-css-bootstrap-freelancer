@@ -6,6 +6,16 @@ header{
 
 
 .jumbotron{
-    min-height: 500px;
+    min-height: 400px;
     background-color: #1ABC9C;
+}
+
+.portfolio{
+    min-height: 500px;
+    background-color: grey;
+}
+
+.card{
+    min-height: 250px;
+    background-color: red;
 }

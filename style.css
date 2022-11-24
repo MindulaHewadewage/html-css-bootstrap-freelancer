@@ -29,3 +29,13 @@ header{
     background-color: grey;
     min-height: 300px;
 }
+
+.footer-top{
+    background-color: #3A546D;
+    min-height: 80px;
+}
+
+.footer-bottom{
+    background-color: #2C3E50;
+    min-height: 40px;
+}

@@ -3,32 +3,24 @@ header{
     background-color: #2C3E50;
 }
 
-
+img{
+    width: 100%;
+}
 
 .jumbotron{
-    min-height: 400px;
+    background-color: #1ABC9C;
+}
+
+
+
+.about{
     background-color: #1ABC9C;
 }
 
 .portfolio{
-    min-height: 500px;
-    background-color: grey;
+    padding-bottom: 40px;
 }
 
-.card{
-    min-height: 250px;
-    background-color: red;
-}
-
-.about{
-    background-color: #1ABC9C;
-    min-height: 300px;
-}
-
-.contact-me{
-    background-color: grey;
-    min-height: 300px;
-}
 
 .footer-top{
     background-color: #3A546D;
@@ -39,3 +31,10 @@ header{
     background-color: #2C3E50;
     min-height: 40px;
 }
+
+
+.lines{
+    height: 5px;
+    width: 15%;
+}
+

@@ -3,6 +3,10 @@ header{
     background-color: #2C3E50;
 }
 
+.navbar{
+    filter: invert(1);
+}
+
 img{
     width: 100%;
 }
@@ -24,17 +28,26 @@ img{
 
 .footer-top{
     background-color: #3A546D;
-    min-height: 80px;
 }
 
 .footer-bottom{
     background-color: #2C3E50;
-    min-height: 40px;
 }
 
 
 .lines{
     height: 5px;
     width: 15%;
+}
+
+.circle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border: 1px solid white;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
 }
 
